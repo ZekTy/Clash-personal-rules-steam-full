@@ -13,6 +13,7 @@ address=/nflxvideo.net/::
 
 #因代理导致的ipv6瞎几把解析太难解决了，正常使用ipv6下载速度也不如ipv4稳定
 #禁止steam的域名解析为ipv6地址
+#/etc/dnsmasq.conf添加
 # 禁止这些 Steam 相关域名走 IPv6
 server=/steambroadcast.akamaized.net/#
 address=/steambroadcast.akamaized.net/::
