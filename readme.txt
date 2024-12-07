@@ -1,3 +1,7 @@
+
+        解决各种分流规则steam不能满速下载，开启ipv6后不能满速下载
+        配置文件是自用魔改的
+
 #禁止Netflix解析ipv6
 #/etc/dnsmasq.conf添加
 server=/netflix.com/#
