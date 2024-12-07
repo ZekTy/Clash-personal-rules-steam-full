@@ -12,7 +12,7 @@ https://shuaiyang.wang/index.php/archives/5/
 
 自建subconverter订阅转换
 
-#禁止Netflix解析ipv6
+#禁止Netflix解析ipv6   防止Netflix解析到ipv6导致SG节点无法解锁
 #/etc/dnsmasq.conf添加
 server=/netflix.com/#
 address=/netflix.com/::
