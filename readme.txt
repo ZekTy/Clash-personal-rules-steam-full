@@ -10,6 +10,7 @@ https://shuaiyang.wang/index.php/archives/5/
 
 可以说本质还是开启ipv6的问题
 
+自建subconverter订阅转换
 
 #禁止Netflix解析ipv6
 #/etc/dnsmasq.conf添加
