@@ -1,6 +1,15 @@
 
         解决各种分流规则steam不能满速下载，开启ipv6后不能满速下载
-        配置文件是自用魔改的
+        配置文件是自用魔改的///
+模板文件前置添加Lhie1的special.yaml
+https://github.com/dler-io/Rules/blob/main/Clash/Provider/Special.yaml
+后部添加steam商店个人等页面域名列表
+https://github.com/dler-io/Rules/blob/main/Clash/Provider/Steam.yaml
+参考思路文档
+https://shuaiyang.wang/index.php/archives/5/
+
+可以说本质还是开启ipv6的问题
+
 
 #禁止Netflix解析ipv6
 #/etc/dnsmasq.conf添加
