@@ -13,7 +13,7 @@ https://github.com/dler-io/Rules/blob/main/Clash/Provider/Steam.yaml
 https://shuaiyang.wang/index.php/archives/5/
 
 
-自建subconverter订阅转换
+自建subconverter订阅转换 支持vless hy2 
 https://sub.inklazy.com/
 后端
 https://suc.inklazy.com/sub
