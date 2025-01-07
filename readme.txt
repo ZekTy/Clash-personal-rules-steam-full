@@ -1,6 +1,6 @@
 
         解决各种分流规则steam不能满速下载，开启ipv6后不能满速下载，dns泄露问题
-        实现效果如图
+        实现效果开启ipv6后steam满速下载，商店个人等页面走代理，下载走直连
         配置文件是自用魔改的///
 模板文件前置添加Lhie1的special.yaml
 https://github.com/dler-io/Rules/blob/main/Clash/Provider/Special.yaml
