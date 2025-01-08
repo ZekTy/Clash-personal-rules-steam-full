@@ -2,9 +2,9 @@ DOMAIN-KEYWORD,inklazy
 DOMAIN-SUFFIX,jj5agame.com
 DOMAIN-SUFFIX,wigwy.xyz
 DOMAIN-KEYWORD,dreammoon.top
-DOMAIN,lg.ap-southeast-1.claw.cloud
-DOMAIN,lg.ap-southeast-1-intl.claw.cloud
-DOMAIN,lg.cn-hongkong.claw.cloud
-DOMAIN,lg.cn-hongkong-intl.claw.cloud
-DOMAIN,lg.ap-northeast-1.claw.cloud
-DOMAIN,lg.ap-northeast-1-intl.claw.cloud
+DOMAIN-SUFFIX,lg.ap-southeast-1.claw.cloud
+DOMAIN-SUFFIX,lg.ap-southeast-1-intl.claw.cloud
+DOMAIN-SUFFIX,lg.cn-hongkong.claw.cloud
+DOMAIN-SUFFIX,lg.cn-hongkong-intl.claw.cloud
+DOMAIN-SUFFIX,lg.ap-northeast-1.claw.cloud
+DOMAIN-SUFFIX,lg.ap-northeast-1-intl.claw.cloud
