@@ -11,3 +11,4 @@ IP-CIDR,88.82.0.0/19
 IP-CIDR,46.68.0.0/17
 # Giffgaff
 IP-CIDR,87.194.0.0/16
+- DOMAIN-SUFFIX, 3gppnetwork.org
