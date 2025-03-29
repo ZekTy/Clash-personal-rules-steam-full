@@ -1,4 +1,7 @@
-  # > Apple CDN
+DOMAIN-SUFFIX,substore.store
+
+
+# > Apple CDN
 PROCESS-NAME,storedownloadd
   # - USER-AGENT,com.apple.appstored*
 DOMAIN,aod.itunes.apple.com
